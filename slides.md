@@ -71,19 +71,19 @@ level: 1
 <div class="grid grid-cols-2 gap-4">
   <div class="col-span-1">
     <ul>
-      <li><a href="/1">Bienvenido a SpaceEV</a></li>
-      <li><a href="/2">Índice de contenidos</a></li>
-      <li><a href="/3">🚀 Qué es SpaceEV?</a></li>
-      <li><a href="/4">Requisitos Técnicos</a></li>
-      <li><a href="/5">🚀 Proceso de Instalación</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/1">Bienvenido a SpaceEV</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/2">Índice de contenidos</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/3">🚀 Qué es SpaceEV?</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/4">Requisitos Técnicos</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/5">🚀 Proceso de Instalación</a></li>
       <li>
-        <a href="/6">🖥️ Interfaz de Usuario I</a>
+        <a href="https://davidsanteiro.github.io/Slidev-SpaceEV/6">🖥️ Interfaz de Usuario I</a>
         <ul class="ml-4">
-          <li><a href="/7">📰 Feed de posts</a></li>
-          <li><a href="/8">➕📰 Nuevo post</a></li>
-          <li><a href="/9">📅 Calendario</a></li>
-          <li><a href="/10">➕📅 Añadir evento al calendario</a></li>
-          <li><a href="/11">🔍📅 Búsqueda de eventos</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/7">📰 Feed de posts</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/8">➕📰 Nuevo post</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/9">📅 Calendario</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/10">➕📅 Añadir evento al calendario</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/11">🔍📅 Búsqueda de eventos</a></li>
         </ul>
       </li>
     </ul>
@@ -91,18 +91,18 @@ level: 1
   <div class="col-span-1">
     <ul>
       <li>
-        <a href="/12">🖥️ Interfaz de Usuario II</a>
+        <a href="https://davidsanteiro.github.io/Slidev-SpaceEV/12">🖥️ Interfaz de Usuario II</a>
         <ul class="ml-4">
-          <li><a href="/13">📝 Registro de usuario</a></li>
-          <li><a href="/14">🔑 Inicio de sesión</a></li>
-          <li><a href="/15">🔒 Recuperación de contraseña</a></li>
-          <li><a href="/16">🔁 Cambio de contraseña</a></li>
-          <li><a href="/17">⚙️ Ajustes de usuario</a></li>
-          <li><a href="/18">✅ Solicitar verificación de usuario</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/13">📝 Registro de usuario</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/14">🔑 Inicio de sesión</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/15">🔒 Recuperación de contraseña</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/16">🔁 Cambio de contraseña</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/17">⚙️ Ajustes de usuario</a></li>
+          <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/18">✅ Solicitar verificación de usuario</a></li>
         </ul>
       </li>
-      <li><a href="/19">Referencias Bibliográficas</a></li>
-      <li><a href="/20">¡Te esperamos en SpaceEV!</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/19">Referencias Bibliográficas</a></li>
+      <li><a href="https://davidsanteiro.github.io/Slidev-SpaceEV/20">¡Te esperamos en SpaceEV!</a></li>
     </ul>
   </div>
 </div>
