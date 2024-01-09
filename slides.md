@@ -33,16 +33,20 @@ Plataforma de información y social sobre el espacio
 
 
 <div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10" title="Siguiente diapositiva">
     Pulsa <kbd>Espacio</kbd> para avanzar <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" title="Abrir documentación técnica"
+  <a href="https://universidadevigo-my.sharepoint.com/:b:/g/personal/david_santeiro_alumnado_uvigo_gal/EfqpOqMQjnZKt3pkRTIwsrwBQT3mT-bjtJD4yUZzAt05ng?e=x2Xzeu" target="_blank" alt="GitHub" title="Abrir documentación técnica (pdf)"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <img src="/assets/icons/carbon-document.svg" style="filter: invert(1);"/>
+  </a>
+  <a href="https://github.com/DavidSanteiro/Slidev-SpaceEV" target="_blank" alt="GitHub" title="Abrir código de la presentación en GitHub"
+    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
+    <carbon-logo-github />
   </a>
 </div>
 
@@ -371,7 +375,7 @@ class: text-center
 ## Creado con ❤️ por Space<span class="text-[#f34250]">Group</span>
 
 
-[Documentación técnica]()
+[Documentación técnica](https://universidadevigo-my.sharepoint.com/:b:/g/personal/david_santeiro_alumnado_uvigo_gal/EfqpOqMQjnZKt3pkRTIwsrwBQT3mT-bjtJD4yUZzAt05ng?e=x2Xzeu)
   · [Algoritmo de recomendación](https://colab.research.google.com/drive/1uUTbyFfyo6GDnuiq2MJw4vHJzY7VMz_f?usp=sharing) 
   · [Algoritmo de valoración](https://colab.research.google.com/drive/1Kj609BCPEtK-CthLB4O-uAO0zR-otc8s?usp=sharing)
 

@@ -1,0 +1,707 @@
+[
+    {
+        "fecha": "2023-01-04",
+        "titulo": "Pico máximo de la lluvia de meteoros de las Cuadrántidas",
+        "descripcion": "La lluvia de meteoros de las Cuadrántidas tendrá lugar del 12 de diciembre al 12 de enero y alcanzará su pico máximo alrededor del 4 de enero. Busca su punto radiante en la constelación de Bootes. En condiciones ideales, se pueden ver hasta 110 meteoros por hora, aunque este año la lluvia de meteoros alcanza su punto máximo cerca de la Luna Llena, cuya luz obstaculizará la visión. Por ello, es mejor observar la lluvia de meteoros después de la puesta de la Luna hasta el amanecer. La lluvia de meteoros se verá mejor desde el hemisferio norte.",
+        "comentarios": [
+            "Que bonito! La lluvia de meteoros se vio increible. Guau",
+            "Buena foto",
+            "¿Alguien más disfrutó de este espectáculo celestial?",
+            "Las fotos no le hacen justicia a la majestuosidad de este evento.",
+            "¡Es increíble cómo la naturaleza nos brinda estas maravillas!",
+            "Este evento astronómico fue normal, sin un gran espectáculo.",
+            "La lluvia no se vio apenas, menuda basura."
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-01-06",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna Llena del Lobo ocurrirá el 6 de enero, a las 23:08 GMT. Nuestro satélite natural estará en la constelación de Géminis. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella.",
+        "comentarios": [
+            "Siempre me asombra la belleza de la Luna llena.",
+            "¿Alguien más planea hacer una sesión de observación esta noche?",
+            "Qué perfecta coincidencia con la constelación de Géminis, ¿no?",
+            "La luna llena es la más fea de todas",
+            "Penoso evento"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            0,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-01-22",
+        "titulo": "Conjunción Venus-Saturno",
+        "descripcion": "El 22 de enero, a las 21:53 GMT, Venus (magnitud -3,9) pasará a 0°21' al sur de Saturno (magnitud 0,7). Se encontrarán en la constelación de Capricornio. Los planetas encajarán en el campo de visión de un telescopio, pero también podrás verlos con unos prismáticos o incluso a simple vista.",
+        "comentarios": [
+            "¡La alineación planetaria es tan emocionante de ver!",
+            "¿Alguien logró capturar este encuentro astral con fotos?",
+            "La constelación de Capricornio siempre reserva sorpresas increíbles.",
+            "Que conjunción más inútil"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-01-23",
+        "titulo": "Conjunciones Luna-Saturno y Luna-Venus",
+        "descripcion": "El 23 de enero, a las 07:22 GMT, Saturno (magnitud 0,7) se encontrará con la Luna de 2 días en la constelación de Capricornio. La distancia aparente entre ambos objetos será de 3°49'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos. Más tarde, a las 08:20 GMT, la Luna pasará cerca de Venus (magnitud -3,9). La distancia entre los dos cuerpos será de 3°27', demasiado lejos como para encajar en el campo de visión de un telescopio. Por suerte, serán lo suficientemente brillantes como para observarlos sin ayuda de ningún dispositivo óptico.",
+        "comentarios": [
+            "¿Alguien más emocionado por ver estas conjunciones tan cercanas en el cielo?",
+            "¡Qué maravillosa oportunidad para quienes aman la observación astronómica!",
+            "La Luna se convierte en el mejor compañero para estos encuentros planetarios.",
+            "Apenas se vio la conjunción, no pude disfrutar",
+            "¡Qué desilusión! Esperaba ver algo espectacular con mi telescopio, pero la distancia entre los objetos fue demasiado grande para apreciar algo significativo. Decepcionante.",
+            "No valió la pena levantarse temprano para presenciar esto. La promesa de una 'conjunción' era exagerada; apenas se podían distinguir los objetos a simple vista.",
+            "¿En serio? Esperaba algo más impresionante. La distancia entre los cuerpos celestes era tan grande que ni siquiera valió la pena sacar los prismáticos. Aburrido.",
+            "No recomendaría este evento a nadie. La descripción prometía una 'conjunción' pero la realidad fue una gran separación entre los astros. Una completa pérdida de tiempo.",
+            "Mis expectativas estaban altas, pero esta 'conjunción' fue un fiasco total. Ni siquiera pude distinguir los objetos a simple vista, una completa decepción."
+
+
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            0,
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-01-31",
+        "titulo": "Ocultación lunar de Marte",
+        "descripcion": "El 31 de enero, a las 04:27 GMT, Marte (magnitud -0,3) desaparecerá detrás de la Luna (magnitud -12,3) en la constelación de Tauro. La ocultación lunar será visible desde algunas partes de América. Los objetos se verán bien a simple vista, pero puedes llevar un telescopio o unos prismáticos para tener una mejor visión. No olvides comprobar con la aplicación Sky Tonight si la ocultación lunar es visible para tu ubicación.",
+        "comentarios": [
+            "Qué emocionante ver estas alineaciones planetarias, ¿no?",
+            "¿Alguien más está ansioso por presenciar este evento?",
+            "¡Estos eventos hacen que amar la astronomía sea fácil!",
+            "La astronomía no vale para nada",
+            "¿En serio? ¡Otra ocultación más!",
+            "Marte desapareciendo, ¿Y qué?",
+            "¿Por qué molestarte con un telescopio?",
+            "Fascinante evento astronómico.",
+            "Una oportunidad para los entusiastas",
+            "Marte y luna en conjunción"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "fecha": "2023-02-01",
+        "titulo": "El cometa C/2022 E3 (ZTF) alcanza su máximo brillo",
+        "descripcion": "El brillante cometa C/2022 E3 se dirige hacia el Sistema Solar interior. El 1 de febrero alcanzará su máximo brillo, pasando por la Tierra a una distancia de 0,28 UA en la constelación de Camelopardalis. Según las diferentes estimaciones, el cometa puede alcanzar una magnitud entre 5,1 y 7,35. Se podrá ver bien a través de unos prismáticos, o incluso a simple vista.",
+        "comentarios": [
+            "¿Alguien más esperando con ansias ver este cometa?",
+            "Las estimaciones de su brillo lo convierten en un espectáculo imperdible.",
+            "¡No puedo esperar para verlo brillar en el cielo nocturno!",
+            "No se vio nada, mal evento.",
+            "¿Magnitud entre 5,1 y 7,35? ¿En serio?",
+            "¿Solo visible con prismáticos?",
+            "¿Otro cometa más?",
+            "Evento astronómico interesante",
+            "Constelación de Camelopardalis"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            -1,
+            -1,
+            -1,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "fecha": "2023-02-05",
+        "titulo": "Luna Llena",
+        "descripcion": "Luna de Nieve ocurrirá el 5 de febrero, a las 18:29 GMT. Nuestro satélite natural estará en la constelación de Acuario. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella.",
+        "comentarios": [
+            "Las noches de Luna Llena siempre tienen un encanto especial.",
+            "¿Alguien más planea disfrutar de este espectáculo lunar en febrero?",
+            "La Luna en Acuario promete ser una vista impresionante.",
+            "La luna de nieve apenas se pudo ver.",
+            "Evento astronómico destacado",
+            "Observación sin necesidad de telescopio",
+            "¿Otra Luna Llena más?",
+            "¿En Acuario?",
+            "¿Solo un momento?"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-02-15",
+        "titulo": "Conjunción Venus-Neptuno",
+        "descripcion": "El 15 de febrero, a las 12:19 GMT, Venus (magnitud -4.0) pasará a 45” al sur de Neptuno (magnitud 8,0). Se encontrarán en la constelación de Acuario. Los planetas encajarán en el campo de visión de un telescopio, pero también podrás verlos con unos prismáticos.",
+        "comentarios": [
+            "Venus y Neptuno unidos en el cosmos, ¡una mezcla de belleza y misterio en el firmamento!",
+            "La conjunción de Venus y Neptuno nos recuerda la diversidad de paisajes en nuestro sistema solar.",
+            "¿Quién no querría ver la danza cósmica entre estos planetas?",
+            "¡Qué oportunidad tan única para ver estos planetas juntos!",
+            "Los eventos planetarios nunca dejan de sorprendernos.",
+            "La constelación de Acuario siempre nos regala encuentros inolvidables.",
+            "Menuda mierda de conjunción",
+            "Conjunción normal, sin grandes espectáculos",
+            "Me esperaba bastante más"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            -1,
+            0,
+            0
+        ]
+    },
+    {
+        "fecha": "2023-02-20",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 20 de febrero, a las 07:06 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión.",
+        "comentarios": [
+            "La Luna Nueva siempre trae un aire de renovación, ¿quién más ansía ese cielo estrellado sin la luz lunar?",
+            "Una Luna Nueva es como una página en blanco en el cielo, lista para ser llenada por las estrellas.",
+            "El momento perfecto para sumergirse en la oscuridad del cielo y descubrir nuevas constelaciones."
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-02-22",
+        "titulo": "Conjunción Luna-Venus",
+        "descripcion": "El 22 de febrero, a las 07:57 GMT, Venus (magnitud -4,0) se encontrará con la Luna de 2 días en la constelación de Piscis. La distancia aparente entre ambos objetos será de 2°05'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-02-22",
+        "titulo": "Ocultación lunar de Júpiter",
+        "descripcion": "El 22 de febrero, a las 22:57 GMT, Júpiter (magnitud -2,1) desaparecerá detrás de la Luna (magnitud -10,3) en la constelación de Piscis. La ocultación lunar será visible desde algunas partes de Sudamérica y la Antártida. Los objetos se verán bien a simple vista, pero puedes llevar un telescopio o unos prismáticos para tener una mejor visión.",
+        "comentarios": [
+            "La ocultación lunar de Júpiter desde Sudamérica y la Antártida será un espectáculo privilegiado.",
+            "Imagina la majestuosidad de Júpiter detrás de nuestra propia Luna. ¡Eso es algo que no se ve todos los días!",
+            "La alineación de los astros nos permite presenciar este maravilloso juego de escondidas entre Júpiter y la Luna."
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-03-02",
+        "titulo": "Conjunción Venus-Júpiter",
+        "descripcion": "El 2 de marzo, a las 04:15 GMT, Venus (magnitud -4,0) pasará a 0°32' al norte de Júpiter (magnitud -2,1). Se encontrarán en la constelación de Piscis. Los planetas apenas encajarán en el campo de visión de un telescopio, pero también se pueden ver con unos prismáticos o incluso a simple vista.",
+        "comentarios": [
+            "La conjunción de Venus y Júpiter promete ser un espectáculo celestial asombroso.",
+            "¡Imagina ver estos planetas tan brillantes juntos en el cielo!",
+            "Los encuentros planetarios siempre nos ofrecen una visión especial del universo."
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-03-07",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna Llena de Gusano ocurrirá el 7 de marzo, a las 12:40 GMT. Nuestro satélite natural estará en la constelación de León. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella.",
+        "comentarios": [
+            "La Luna Llena de Gusano es un recordatorio de la belleza que hay en lo más sutil de la naturaleza.",
+            "¿Alguien más fascinado por la Luna Llena de Gusano en la constelación de León? ¡Promete ser un espectáculo impresionante!",
+            "La Luna Llena de Gusano ofrece una vista celestial única que nos conecta con la naturaleza y sus ciclos.",
+            "La Luna Llena de Gusano es un momento perfecto para reflexionar sobre la naturaleza y su belleza."
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-03-20",
+        "titulo": "Equinoccio de marzo",
+        "descripcion": "El equinoccio de marzo marca el comienzo de la primavera en el hemisferio norte y el primer día del otoño en el hemisferio sur. En el 2023, el equinoccio aparece el 20 de marzo, a las 21:25 GMT.",
+        "comentarios": [
+            "El equinoccio marca un nuevo comienzo, ¿quién más está listo para dar la bienvenida a la primavera?",
+            "El equinoccio es un momento perfecto para reflexionar sobre el equilibrio en la naturaleza.",
+            "¡Prepara tu mirada para el equinoccio, es una oportunidad para apreciar la armonía del cosmos!",
+            "El comienzo de la primavera siempre trae consigo cambios hermosos.",
+            "¡El equinoccio marca la transición perfecta entre estaciones!",
+            "Un momento de equilibrio cósmico que nos lleva a la primavera.",
+            "La primavera es la peor estación de todas.",
+            "Que mal, ya llega la primavera.",
+            "Que asco la primavera"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-03-21",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 21 de marzo, a las 17:23 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión.",
+        "comentarios": [
+            "La Luna Nueva siempre trae un aire de renovación, ¿quién más ansía ese cielo estrellado sin la luz lunar?",
+            "Una Luna Nueva es como una página en blanco en el cielo, lista para ser llenada por las estrellas.",
+            "El momento perfecto para sumergirse en la oscuridad del cielo y descubrir nuevas constelaciones.",
+            "Otra luna nueva más, que cansinos"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            -1
+        ]
+    },
+    {
+        "fecha": "2023-03-24",
+        "titulo": "Ocultación lunar de Venus",
+        "descripcion": "El 24 de marzo, a las 10:32 GMT, Venus (magnitud -4,0) desaparecerá detrás de la Luna (magnitud -10,1) en la constelación de Carnero. La ocultación lunar será visible desde algunas partes de África y Asia.",
+        "comentarios": [
+            "Desde África y Asia, la ocultación lunar de Venus promete ser un regalo para los observadores del cielo.",
+            "¡Qué maravilla pensar en la Luna eclipsando a Venus en esos lugares!",
+            "¡El cielo nos regala estos eventos para asombrarnos una vez más!",
+            "¡Qué emocionante pensar en este evento visible desde África y Asia!",
+            "La Luna nos regala estas ocultaciones tan especiales.",
+            "¡Imagina la magnífica vista desde esos lugares!",
+            "Este portal si que tendría que desaparecer",
+            "No pude observar este evento"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            -1,
+            0
+        ]
+    },
+    {
+        "fecha": "2023-03-28",
+        "titulo": "Conjunción Luna-Marte",
+        "descripcion": "El 28 de marzo, a las 13:16 GMT, Marte (magnitud 0,9) se encontrará con la Luna de 7 días en la constelación de Géminis. La distancia aparente entre ambos objetos será de 2°17'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos.",
+        "comentarios": [
+            "La conjunción entre la Luna y Marte nos acerca al vecindario planetario de una manera especial.",
+            "Marte, el planeta rojo, y la Luna brillando juntos en el cielo nocturno, ¡un encuentro que merece ser visto!",
+            "A simple vista o con unos prismáticos, esta conjunción nos recordará lo pequeños que somos en este vasto cosmos.",
+            "¿Alguien más emocionado por esta conjunción?",
+            "Marte siempre es un planeta intrigante para observar en el cielo.",
+            "¡Estas alineaciones planetarias son un regalo para los amantes del espacio!"
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-04-06",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna Rosa ocurrirá el 6 de abril, a las 04:34 GMT. Nuestro satélite natural estará en la constelación de Virgen. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella.",
+        "comentarios": [
+            "Las Lunas llenas siempre tienen su propio encanto, ¡pero la Luna Rosa suena mágica!",
+            "¿Alguien más emocionado por la Luna Rosa en abril? ¡Seguro será impresionante!",
+            "El cielo nos sorprende con colores incluso en las Lunas llenas. ¡La Luna Rosa será espectacular!"
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-04-16",
+        "titulo": "Conjunción Luna-Saturno",
+        "descripcion": "El 16 de abril, a las 03:47 GMT, Saturno (magnitud 0,8) se encontrará con la Luna de 26 días en la constelación de Acuario. La distancia aparente entre ambos objetos será de 3°29'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos.",
+        "comentarios": [
+            "¡Qué emocionante pensar en la conjunción de Saturno con la Luna!",
+            "Estos eventos nos recuerdan la inmensidad del espacio y la belleza que nos rodea.",
+            "¡Saturno y la Luna juntos, una vista que no se puede perder!"
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-04-20",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 20 de abril, a las 04:12 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión.",
+        "comentarios": [
+            "La Luna Nueva es un momento perfecto para reflexionar sobre la naturaleza y su belleza.",
+            "La Luna Nueva es un recordatorio de la belleza que hay en lo más sutil de la naturaleza.",
+            "¿Alguien más fascinado por la Luna Nueva en abril? ¡Promete ser un espectáculo impresionante!",
+            "La Luna Nueva ofrece una vista celestial única que nos conecta con la naturaleza y sus ciclos."
+        ],
+        "labels": [
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-04-20",
+        "titulo": "Eclipse solar híbrido",
+        "descripcion": "El eclipse solar híbrido total/anular se producirá el 20 de abril, de 01:36 a 06:59 GMT. Será visible desde Timor Oriental, Indonesia y Australia. En la mayoría de los casos, un eclipse híbrido comienza como anular, se convierte en total y luego vuelve a ser anular cuando la sombra de la Luna se desplaza por la superficie de la Tierra. Se trata de un acontecimiento astronómico muy raro: ¡solo veremos 7 eclipses solares de este tipo en este siglo! Ponga a prueba sus conocimientos sobre los eclipses solares y lunares con nuestro cuestionario. Cuidado: ¡es más difícil de lo que usted cree!",
+        "comentarios": [
+            "¡Qué emocionante pensar en este eclipse solar híbrido!",
+            "¡Qué oportunidad tan única para ver este eclipse solar híbrido visible desde Timor Oriental, Indonesia y Australia!"
+        ],
+        "labels": [
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-04-21",
+        "titulo": "Conjunción Luna-Mercurio",
+        "descripcion": "El 21 de abril, a las 07:05 GMT, Mercurio (magnitud 2,1) se encontrará con la Luna de 1 días en la constelación de Carnero. La distancia aparente entre ambos objetos será de 1°53'. Están demasiado lejos para verlos de inmediato a través del telescopio, pero se podrá ver la conjunción si se usan unos prismáticos."
+    },
+    {
+        "fecha": "2023-04-23",
+        "titulo": "Pico de la lluvia de meteoros de las Líridas",
+        "descripcion": "La lluvia de meteoros de las Líridas tendrá lugar del 16 al 25 de abril y alcanzará su pico máximo alrededor del 23 de abril. La lluvia de meteoros de las Líridas se extenderá del 16 al 25 de abril y alcanzará su punto máximo en torno al 23 de abril. Puedes buscar su punto radiante en la constelación de Hércules a partir de la medianoche, hora local. En condiciones ideales, se podrán ver hasta 18 meteoros por hora. La delgada media luna, iluminada en un 9 %, no dificultará la visión. La lluvia de meteoros se verá mejor desde el hemisferio norte; también será visible en el hemisferio sur, pero el número de meteoros será menor."
+    },
+    {
+        "fecha": "2023-04-23",
+        "titulo": "Conjunción Luna-Venus",
+        "descripcion": "El 23 de abril, a las 13:03 GMT, Venus (magnitud -4,1) se encontrará con la Luna de 3 días en la constelación de Tauro. La distancia aparente entre ambos objetos será de 1°18'. Están demasiado lejos como para observarlas de inmediato a través del telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-04-26",
+        "titulo": "Conjunción Luna-Marte",
+        "descripcion": "El 26 de abril, a las 02:18 GMT, Marte (magnitud 1,3) se encontrará con la Luna de 6 días en la constelación de Géminis. La distancia aparente entre ambos objetos será de 3°13'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos.",
+        "comentarios": [
+            "La conjunción entre la Luna y Marte nos acerca al vecindario planetario de una manera especial.",
+            "Marte, el planeta rojo, y la Luna brillando juntos en el cielo nocturno, ¡un encuentro que merece ser visto!",
+            "A simple vista o con unos prismáticos, esta conjunción nos recordará lo pequeños que somos en este vasto cosmos."
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-05-05",
+        "titulo": " Luna Llena",
+        "descripcion": "La Luna Llena de flores ocurrirá el 5 de mayo, a las 17:34 GMT. Nuestro satélite natural estará en la constelación de Balanza. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella."
+    },
+    {
+        "fecha": "2023-05-05",
+        "titulo": "Eclipse lunar penumbral",
+        "descripcion": "Desde las 15:15 GMT hasta las 19:32 GMT, los observadores desde África, Oceanía, Asia, Europa del Este y Grecia experimentarán un eclipse lunar penumbral. Este tipo de eclipse no es visible a simple vista, por lo que este evento solo es notable para los astrónomos experimentados. Ponga a prueba sus conocimientos sobre los eclipses solares y lunares con nuestro cuestionario. Cuidado: ¡es más difícil de lo que usted cree!"
+    },
+    {
+        "fecha": "2023-05-13",
+        "titulo": "Conjunción Luna-Saturno",
+        "descripcion": "El 13 de mayo, a las 13:04 GMT, Saturno (magnitud 0,8) se encontrará con la Luna de 23 días en la constelación de Acuario. La distancia aparente entre ambos objetos será de 3°17'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-05-17",
+        "titulo": "Ocultación lunar de Júpiter",
+        "descripcion": "El 17 de mayo, a las 12:40 GMT, Júpiter (magnitud -2,1) desaparecerá detrás de la Luna (magnitud -9,4) en la constelación de Piscis. La ocultación lunar será visible desde algunas partes de América y Europa. Los objetos se verán bien a simple vista, pero puedes llevar un telescopio o unos prismáticos para tener una mejor visión. No olvides comprobar con la aplicación Sky Tonight si la ocultación lunar es visible para tu ubicación."
+    },
+    {
+        "fecha": "2023-05-19",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 19 de mayo, a las 15:53 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-05-23",
+        "titulo": "Conjunción Luna-Venus",
+        "descripcion": "El 23 de mayo, a las 12:08 GMT, Venus (magnitud -4,2) se encontrará con la Luna de 4 días en la constelación de Géminis. La distancia aparente entre ambos objetos será de 2°12'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-05-29",
+        "titulo": "Mercurio en su mayor elongación occidental",
+        "descripcion": "El 29 de mayo, a las 04:59 GMT, Mercurio (magnitud 0,4) aparecerá a una distancia aparente máxima al oeste del Sol: los cuerpos celestes estarán separados por 24,9°. Este acontecimiento se denomina la máxima elongación. Es el mejor momento para observar a Mercurio, ¡así que no pierdas la oportunidad!"
+    },
+    {
+        "fecha": "2023-06-04",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna de fresa ocurrirá el 4 de junio, a las 03:42 GMT. Nuestro satélite natural estará en la constelación de Escorpión. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella."
+    },
+    {
+        "fecha": "2023-06-14",
+        "titulo": "Conjunción Luna-Júpiter",
+        "descripcion": "El 14 de junio, a las 06:33 GMT, Júpiter (magnitud -2,2) se encontrará con la Luna de 26 días en la constelación de Carnero. La distancia aparente entre ambos objetos será de 1°30'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-06-16",
+        "titulo": "Conjunción Luna-Mercurio",
+        "descripcion": "El 16 de junio, a las 20:40 GMT, Mercurio (magnitud -0,8) se encontrará con la Luna de 28 días en la constelación de Tauro. La distancia aparente entre ambos objetos será de 4°18'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-06-18",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 18 de junio, a las 04:37 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-06-21",
+        "titulo": "Solsticio de junio",
+        "descripcion": "El solsticio de junio marca el primer día del verano astronómico en el hemisferio norte y el primer día del invierno en el hemisferio sur. En el 2023, ocurrirá el 21 de junio, a las 14:58 GMT. Será el día más largo en el hemisferio norte; los observadores del hemisferio sur, por el contrario, experimentarán la menor cantidad de luz solar y el día más corto del año. Preparamos un quiz divertido y educativo sobre equinoccios y solsticios para ti. ¡Comprueba si puedes diferenciar entre estos eventos astronómicos!"
+    },
+    {
+        "fecha": "2023-06-22",
+        "titulo": "Conjunción Luna-Venus",
+        "descripcion": "El 22 de junio, a las 00:47 GMT, Venus (magnitud -4,4) se encontrará con la Luna de 4 días en la constelación de Sagitario. La distancia aparente entre ambos objetos será de 3°41'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-07-03",
+        "titulo": "Superluna Llena",
+        "descripcion": "La Superluna de ciervo ocurrirá el 3 de julio, a las 11:39 GMT. Nuestro satélite natural estará en la constelación de Sagitario. El prefijo \"Super\" significa que la Luna Llena coincidirá estrechamente con el mayor acercamiento de nuestro satélite natural a la Tierra (perigeo). Una Superluna se ve más grande y brillante que una habitual."
+    },
+    {
+        "fecha": "2023-07-11",
+        "titulo": "Conjunción Luna-Júpiter",
+        "descripcion": "El 11 de julio, a las 21:18 GMT, Júpiter (magnitud -2,3) se encontrará con la Luna de 23 días en la constelación de Carnero. La distancia aparente entre ambos objetos será de 2°13'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-07-17",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 17 de julio, a las 18:32 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-07-20",
+        "titulo": "Conjunción Luna-Venus",
+        "descripcion": "El 20 de julio, a las 08:38 GMT, Venus (magnitud -4,4) se encontrará con la Luna de 3 días en la constelación de León. La distancia aparente entre ambos objetos será de 7°51'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-07-27",
+        "titulo": "Conjunción Venus-Mercurio",
+        "descripcion": "El 27 de julio, a las 11:00 GMT, Venus (magnitud -4,3) pasará a 5°17' al sur de Mercurio (magnitud -0,1). Se encontrarán en la constelación de León. Los planetas encajarán en el campo de visión de un telescopio, pero también podrás verlos con unos prismáticos o incluso a simple vista."
+    },
+    {
+        "fecha": "2023-07-30",
+        "titulo": "Pico de la lluvia de meteoros de las Delta Acuáridas Sur",
+        "descripcion": "La lluvia de meteoros de las Delta Acuáridas Sur tendrá lugar del 12 de julio al 23 de agosto y alcanzará su pico máximo alrededor del 30 de julio. Busca su punto radiante en la constelación de Acuario. En condiciones ideales, se pueden ver hasta 25 meteoros por hora, aunque este año la lluvia de meteoros se produce cerca de la Luna, iluminada en un 89 %, cuya luz obstruirá la visión. Por lo tanto, es mejor observar las Delta Acuáridas Sur después de la puesta de la Luna hasta el amanecer. La lluvia de meteoros se ve mejor desde el hemisferio sur, aunque también es visible desde las latitudes meridionales del hemisferio norte. ¡Comprueba si estás listo para ver estrellas fugaces respondiendo a nuestro cuestionario!"
+    },
+    {
+        "fecha": "2023-08-01",
+        "titulo": "Superluna Llena",
+        "descripcion": "La Superluna de Esturión ocurrirá el 1 de agosto, a las 18:31 GMT. Nuestro satélite natural estará en la constelación de Capricornio. El prefijo \"Super\" significa que la Luna Llena coincidirá estrechamente con el mayor acercamiento de nuestro satélite natural a la Tierra (perigeo). Una Superluna se ve más grande y brillante que una habitual."
+    },
+    {
+        "fecha": "2023-08-13",
+        "titulo": "Pico de lluvia de meteoros de las Perseidas",
+        "descripcion": "La lluvia de meteoros de las Perseidas se extenderá desde el 17 de julio hasta el 24 de agosto y alcanzará su pico máximo alrededor del 13 de agosto. Busca su punto radiante en la constelación de Perseo a partir de la medianoche, hora local. En condiciones ideales, se podrán ver hasta 100 meteoros por hora. La Luna, iluminada en un 10 %, estará en fase de cuarto creciente y no obstaculizará la visión. La lluvia de meteoros se verá mejor desde el hemisferio norte."
+    },
+    {
+        "fecha": "2023-08-16",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 16 de agosto, a las 09:38 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-08-27",
+        "titulo": "Saturno en oposición",
+        "descripcion": "El 27 de agosto, a las 14:52 GMT, Saturno alcanzará la oposición al Sol y brillará al máximo con una magnitud de 0,4. El planeta anillado se situará en la constelación de Acuario, y se verá como un punto amarillento a simple vista. Podrás ver la forma ovalada de Saturno si utilizas prismáticos, pero necesitarás al menos un pequeño telescopio de 4 pulgadas para ver sus anillos."
+    },
+    {
+        "fecha": "2023-08-30",
+        "titulo": "Conjunción Luna-Saturno",
+        "descripcion": "El 30 de agosto, a las 18:03 GMT, Saturno (magnitud 0,4) se encontrará con la Luna de 14 días en la constelación de Acuario. La distancia aparente entre ambos objetos será de 2°29'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-08-31",
+        "titulo": "Superluna Llena azul",
+        "descripcion": "La Superluna Azul ocurrirá el 31 de agosto, a las 01:35 GMT. Nuestro satélite natural estará en la constelación de Acuario. El nombre de \"Luna Azul\" se utiliza para una segunda Luna Llena que ocurre en un mes del calendario. ¿Nuestro satélite natural realmente se volverá azul? Compruébelo con nuestro divertido cuestionario sobre los colores de la Luna."
+    },
+    {
+        "fecha": "2023-09-04",
+        "titulo": "Conjunción Luna-Júpiter",
+        "descripcion": "El 4 de septiembre, a las 19:44 GMT, Júpiter (magnitud -2,7) se encontrará con la Luna de 19 días en la constelación de Carnero. La distancia aparente entre ambos objetos será de 3°18'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-09-15",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 15 de septiembre, a las 01:40 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-09-19",
+        "titulo": "Neptuno en oposición",
+        "descripcion": "El 19 de septiembre, a las 16:54 GMT, Neptuno alcanzará la oposición. El planeta brillará con una magnitud de 7,8 en la constelación de Piscis. Saldrá justo después de la puesta de sol en dirección opuesta al Sol, alcanzará su punto más alto alrededor de la medianoche, hora local, y permanecerá en el cielo hasta el amanecer. Incluso en su estado más brillante, será difícil distinguir a Neptuno en el cielo nocturno, así que lleva un telescopio para disfrutar de la vista del planeta."
+    },
+    {
+        "fecha": "2023-09-23",
+        "titulo": "Equinoccio de septiembre",
+        "descripcion": "El equinoccio de septiembre marca el comienzo del otoño en el hemisferio norte y el primer día de la primavera en el hemisferio sur. En el 2023, el equinoccio se producirá el 23 de septiembre, a las 06:50 GMT."
+    },
+    {
+        "fecha": "2023-09-27",
+        "titulo": "Conjunción Luna-Saturno",
+        "descripcion": "El 27 de septiembre, a las 01:25 GMT, Saturno (magnitud 0,4) se encontrará con la Luna de 12 días en la constelación de Acuario. La distancia aparente entre ambos objetos será de 2°38'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-09-29",
+        "titulo": "Superluna Llena",
+        "descripcion": "La Superluna de cosecha ocurrirá el 29 de septiembre, a las 09:57 GMT. Nuestro satélite natural estará en la constelación de Piscis. El prefijo \"Super\" significa que la Luna Llena coincidirá estrechamente con el mayor acercamiento de nuestro satélite natural a la Tierra (perigeo). Una Superluna se ve más grande y brillante que una habitual."
+    },
+    {
+        "fecha": "2023-10-02",
+        "titulo": "Conjunción Luna-Júpiter",
+        "descripcion": "El 2 de octubre, a las 03:16 GMT, Júpiter (magnitud -2,8) se encontrará con la Luna de 17 días en la constelación de Carnero. La distancia aparente entre ambos objetos será de 3°23'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-10-09",
+        "titulo": "Pico de la lluvia de meteoros de las Dracónidas",
+        "descripcion": "La lluvia de meteoros de las Dracónidas se producirá del 6 al 10 de octubre y alcanzará su pico máximo alrededor del 9 de octubre. Busca su punto radiante en la constelación de Draco poco después del anochecer. En condiciones ideales, podrás ver hasta 10 meteoros por hora. La Luna Menguante, iluminada en un 25 %, no obstaculizará la visión. La lluvia de meteoros se verá mejor desde el hemisferio norte."
+    },
+    {
+        "fecha": "2023-10-14",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 14 de octubre, a las 17:55 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-10-14",
+        "titulo": "Eclipse solar anular",
+        "descripcion": "El 14 de octubre, desde las 15:05 hasta las 20:55 GMT, los observadores desde Estados Unidos, México, Belice, Honduras, Nicaragua, Panamá, Colombia y Brasil verán el eclipse solar anular. La Luna cubrirá el centro del Sol, y los observadores verán \"el anillo de fuego\" a su alrededor."
+    },
+    {
+        "fecha": "2023-10-22",
+        "titulo": "Pico de la lluvia de meteoros de las Oriónidas",
+        "descripcion": "La lluvia de meteoros de las Oriónidas tendrá lugar del 2 de octubre al 7 de noviembre y alcanzará su pico máximo alrededor del 22 de octubre. Busca su punto radiante en la constelación de Orión alrededor de la medianoche, hora local. En condiciones ideales, podrás ver hasta 20 meteoros por hora. La Luna, iluminada en un 49 %, se pondrá poco después de la medianoche, por lo que no dificultará la visión. La lluvia de meteoros se verá bien desde ambos hemisferios."
+    },
+    {
+        "fecha": "2023-10-24",
+        "titulo": "Conjunción Luna-Saturno",
+        "descripcion": "El 24 de octubre, a las 07:52 GMT, Saturno (magnitud 0,5) se encontrará con la Luna de 10 días en la constelación de Acuario. La distancia aparente entre ambos objetos será de 2°46'. Está demasiado lejos como para verlos simultáneamente por medio de un telescopio, pero podrás ver la conjunción a simple vista o con prismáticos."
+    },
+    {
+        "fecha": "2023-10-28",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna de Cazador ocurrirá el 28 de octubre, a las 23:08 GMT. Nuestro satélite natural estará en la constelación de Balanza. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella."
+    },
+    {
+        "fecha": "2023-10-28",
+        "titulo": "Eclipse lunar parcial",
+        "descripcion": "Alrededor de esa fecha, desde las 19:36 hasta las 20:53 GMT, los observadores de estrellas verán un eclipse lunar parcial. Durante este eclipse, la parte del disco lunar se verá oscurecida porque estará cubierta por la sombra umbral de la Tierra. El eclipse será visible en todo el lado nocturno de la Tierra, incluyendo África, Oceanía, América del Norte y del Sur, Asia y Europa. La fase máxima del eclipse se producirá a las 20:15 GMT. En ese momento, el 12 % del disco lunar estará en la sombra."
+    },
+    {
+        "fecha": "2023-11-03",
+        "titulo": "Júpiter en oposición",
+        "descripcion": "El 3 de noviembre, a las 10:44 GMT, Júpiter alcanzará la oposición. Busca el brillante punto en la constelación de Aries. Brillará con una magnitud de -2,9, lo que lo convierte en el objeto estelar más brillante después del \"lucero del alba\" de Venus."
+    },
+    {
+        "fecha": "2023-11-09",
+        "titulo": "Ocultación lunar de Venus",
+        "descripcion": "El 9 de noviembre, a las 10:34 GMT, Venus (magnitud -4,3) desaparecerá detrás de la Luna (magnitud -10,5) en la constelación de Virgen. La ocultación lunar será visible desde algunas partes de África, Europa y Groenlandia. Los objetos se verán bien a simple vista, pero puedes llevar un telescopio o unos prismáticos para tener una mejor visión.",
+        "comentarios": [
+            "¡Qué emocionante pensar en este evento visible desde África y Asia!",
+            "La Luna nos regala estas ocultaciones tan especiales.",
+            "¡Imagina la magnífica vista desde esos lugares!"
+        ],
+        "labels": [
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "fecha": "2023-11-13",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 13 de noviembre, a las 09:27 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-11-14",
+        "titulo": "Urano en oposición",
+        "descripcion": "El 14 de noviembre, a las 00:32 GMT, Urano alcanzará la oposición. El planeta brillará con una magnitud de 5,6 en la constelación de Aries. Incluso en su momento más grande y brillante, Urano seguirá siendo difícil de ver, por lo que es mejor buscarlo al menos con un pequeño telescopio. El planeta estará en la mejor posición para observarlo alrededor de la medianoche, hora local."
+    },
+    {
+        "fecha": "2023-11-18",
+        "titulo": "Pico de la lluvia de meteoros de las Leónidas",
+        "descripcion": "La lluvia de meteoros de las Leónidas tendrá lugar del 6 al 30 de noviembre y alcanzará su punto máximo alrededor del 18 de noviembre. Empieza a buscar su punto radiante en la constelación de Leo poco antes de la medianoche, hora local. En condiciones ideales, podrás ver hasta 10 meteoros por hora. La Luna Creciente, iluminada en un 25 %, no obstaculizará la visión. La lluvia de meteoros se verá bien desde ambos hemisferios."
+    },
+    {
+        "fecha": "2023-11-27",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna de castor ocurrirá el 27 de noviembre, a las 09:16 GMT. Nuestro satélite natural estará en la constelación de Tauro. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella."
+    },
+    {
+        "fecha": "2023-12-12",
+        "titulo": "Luna Nueva",
+        "descripcion": "La Luna Nueva aparecerá el 12 de diciembre, a las 23:32 GMT. En este momento, nuestro satélite natural se mantendrá entre la Tierra y el Sol, por lo que su lado brillante estará orientado en dirección contraria a la Tierra. Es el mejor momento para observar las estrellas porque la luz de la Luna no dificultará la visión."
+    },
+    {
+        "fecha": "2023-12-14",
+        "titulo": "Pico de la lluvia de meteoros de las Gemínidas",
+        "descripcion": "La lluvia de meteoros de las Gemínidas se extenderá del 4 al 17 de diciembre y alcanzará su pico máximo alrededor del 14 de diciembre. Busca su punto radiante en la constelación de Géminis alrededor de las 22:00 hora local. En condiciones ideales, se podrán ver hasta 150 meteoros por hora. Las gemínidas alcanzarán su punto máximo poco después de la Luna Nueva, por lo que esta no obstaculizará la visión. La lluvia de meteoros se podrá ver bien desde ambos hemisferios."
+    },
+    {
+        "fecha": "2023-12-22",
+        "titulo": "Solsticio de diciembre",
+        "descripcion": "El solsticio de diciembre marca el primer día del invierno astronómico en el hemisferio norte y el primer día del verano en el hemisferio sur. En el 2023, ocurrirá el 22 de diciembre, a las 03:28 GMT. Será el día más corto en el hemisferio norte; el hemisferio sur, por el contrario, experimentará la mayor cantidad de luz solar y el día más largo del año."
+    },
+    {
+        "fecha": "2023-12-23",
+        "titulo": "Pico de la lluvia de meteoros de las úrsidas",
+        "descripcion": "La lluvia de meteoros de las úrsidas se producirá del 17 al 26 de diciembre y alcanzará su pico máximo alrededor del 23 de diciembre. Busca su punto radiante en la constelación de la Osa Menor. En condiciones ideales, se pueden ver hasta 10 meteoros por hora. Sin embargo, este año, la lluvia de meteoros alcanza su punto máximo 3 días antes de la Luna Llena, por lo que el disco lunar, iluminado en un 84 %, obstaculizará la visión. Comienza a observar la lluvia de meteoros después de la puesta de la Luna hasta el amanecer. Las úrsidas se verán mejor desde el hemisferio norte."
+    },
+    {
+        "fecha": "2023-12-27",
+        "titulo": "Luna Llena",
+        "descripcion": "La Luna Fría ocurrirá el 27 de diciembre, a las 00:33 GMT. Nuestro satélite natural estará en la constelación de Cochero. Técnicamente, la Luna Llena dura solo un momento cuando la Luna está en el lado opuesto de la Tierra del Sol, pero el disco lunar aparecerá lleno durante un día antes y después de ella."
+    }
+]
