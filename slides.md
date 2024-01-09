@@ -31,13 +31,13 @@ Plataforma de información y social sobre el espacio
 
 <span>Paulo Francisco Iglesias Cabaleiro</span>
 
-<!--
+
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+    Pulsa <kbd>Espacio</kbd> para avanzar <carbon:arrow-right class="inline"/>
   </span>
 </div>
--->
+
 
 <div class="abs-br m-6 flex gap-2">
   <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub" title="Abrir documentación técnica"
@@ -56,9 +56,6 @@ Plataforma de información y social sobre el espacio
   }
 </style>
 
-<!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
--->
 
 ---
 layout: default
@@ -133,11 +130,6 @@ Space<span class="text-[#f34250]">EV</span> es una **interfaz web** para la visu
   src="/assets/iconSpaceEV.png"
   alt="Icono de SpaceEV"
 />
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
 
 <style>
 h1 {
